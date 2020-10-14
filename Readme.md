@@ -66,4 +66,4 @@ Logika perhitungan terdapat pada class `CurrencyController.cs` sebagai berikut:
 - Untuk mencari suatu pola spesifik dari fungsi “Regex(“[^0-9.-]+)”);
 
 # Jawaban no.5
-https://github.com/Hernanda2829/currentsy-app/blob/master/ClassDiagram1.png
+![Class Diagram](https://github.com/Hernanda2829/currentsy-app/blob/master/ClassDiagram1.png)
